@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T10:40:17.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="5xmwZKgLV8YdOBFPAOFX" version="13.6.5" type="github"><diagram id="jCL5VnEwtW4aRT_iW10H" name="Page-1">5VpRb6M4EP41eUwFNiTkMaHN3cOudNqednVPJwecYNXBnHGa9H79jcEEqL2r3R40UdpIBcb22P6+mbHxMMHx/vSbJEX2WaSUT5CXnib4foKQ7+EILlryUkvCENWCnWSpqdQKHtm/tGlppAeW0rJXUQnBFSv6wkTkOU1UT0akFMd+ta3g/V4LsqOW4DEh3JZ+Y6nKamkUeq38d8p2WdOz75mSPWkqG0GZkVQcOyL8MMGxFELVd/tTTLkGr8Glbrf+Tul5YJLm6mcaPD+k/qcvq79X8i8fpTOu1o/HqSHjmfCDmbAZrHppEJDikKdUK/EneHXMmKKPBUl06RE4B1mm9twUE5kYDjE8GeVUKnr67qj9MxZgRFTsqZIvUMU0wGHdwphPYMA8tlzMIyPLOjyEMyMkhv/dWXMLEdwYlH4BMexADIpgtlsBU+pCN/vnIJqCaVnBsoQKCBWnthDudvoai2eWTv0FVPhTkuSJykYvDLNWXVe0CAJwVZ+FUknxRGPBhQRJLnKqR8E4fyUinO1yeEyADOgPrzRVDIx/aQr2LE11N07aW8PwhuF67vW4nttc+wsH12gsqoOBnWMIdwj6GM1CGyOXP+CxMAr/tzv4c5c7fBOSpzAr+uG8AEf9kOdwg3f1gtn1eUHUdwIfOSJF4MBoPhZGcwujWEiRE5B9ZfJQwjUmJR3BaDndqoub7OIVH9jBh/+eNhs5bHale4u9Zn92+yyEl2ZhcX2R47wQXk3oaBi5JpTw1QVY37dQ+kITAbMEWG7Un1FwbWHVd70u3nxctXi4eGD1XXuym+cBX90C59v7vntKVFZ+GAouH5LsTYZ/hz7rUxShCB+BiCt5TXzNhOM1cfaeRCB7H/MxiLCWh4szYe+VPgYTVnS6NBOB7RMW+m88Xl+McpJyTrt0EAtcG/1zw+Exs63XwqzMSKFv2b7K3nQRem2BShQd6SeyofwPUTLFhC7dCKXEHipwXbAiydOu4qOx8wnC2+oPqlSdLcuizjJpkyXNw5adNIMrM577TCmdnlpqJNA6SfPgjiUi3zJgWt4l0CNap0QRuGg5bBfW5Z5wPs2nW04UPKJAg0cK2HJHd0W+GyJOYb/PdTSz124U2VyfhcNz7XqfGMY/wmH8Iwz7DuI4bz+Hjy5mAQrHwsxOQOmjRX3EuNIDjwGvpp+bjPKvKXGliVyUjBfl7TxRJ3vh5fQI/5Oao5slZdYnBbteDPC7suLKTN3+OsKKDAxkCmNMDrCUCDktM1EULN9NJS2E1ItLFdDXGyLjjEg10PJiWYDr7dxlAf5oucnAdUxSZxMV2XDtnBshU1oz1GQgvW4ysjP6Rlh94RH2KnWm84NadibUKF+aymCARlErqQc4TQTnpCih+bK9Xdlp0/P8pCVJNcTGmtuGJn5Yir5WmCHP7+RftYpBlKIxlOIfKtVCG5OhUArGmFA4htLZBVGajzGhaAyli19HSQvroPLGDxRgjUg8/XMv+DrXseXVB2S6dJxle+HY3nquVfsN21t4bD92q8o6nwzih/8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T10:40:57.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="I_2Ov1JPADmqWco-9npr" version="13.6.5" type="github">
+  <diagram id="jCL5VnEwtW4aRT_iW10H" name="Page-1">
+    <mxGraphModel dx="1038" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
+          <mxGeometry x="35" y="40" width="780" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-3" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Covid-19 Tracker&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="65" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-5" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Worldwide&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="385" y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-7" value="Corona Virus Case" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="130" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-8" value="+20,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-11" value="Recovered" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="130" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-12" value="+20,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-16" value="+20,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-17" value="Deaths" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="130" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-19" value="1.2M Total" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-20" value="1.2M Total" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-21" value="1.2M Total" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-40" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
+          <mxGeometry x="80" y="210" width="440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/small-n-flat/24/map-128.png" parent="1" vertex="1">
+          <mxGeometry x="231" y="286" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-42" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="550" y="65" width="220" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-43" value="Cases By Country" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-44" value="Worldwide new cases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="330" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iphone-calculator-shopping-report/128/barChart.png" parent="1" vertex="1">
+          <mxGeometry x="560" y="350" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vEd1LRB_BrY12d6ltFSw-46" value="&lt;table border=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 1&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 2&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 4&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 5&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 7&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 8&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=none;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="560" y="95" width="200" height="225" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
